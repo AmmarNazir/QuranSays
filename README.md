@@ -3,6 +3,7 @@
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a1ed428e-71a3-42ea-aa51-122af5d7ed78/deploy-status)](https://app.netlify.com/projects/quransays/deploys)
 
 An interactive and modern platform to learn **Tajweed ul Quran** online.  
 Built with **React + Vite + Tailwind CSS**, it provides a smooth learning experience with responsive design, animations, and easy enrollment.
