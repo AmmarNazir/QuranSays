@@ -1,14 +1,21 @@
 import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import About from "./components/About";
+import Courses from "./components/Courses";
+import Testimonials from "./components/Testimonials";
+import Footer from "./components/Footer";
 
 export default function App() {
   return (
-    <>
+    <div className="min-h-screen bg-gray-50">
       <Navbar />
-      <div className="pt-16 h-screen flex items-center justify-center bg-gray-100">
-        <h1 className="text-4xl font-bold text-green-600">
-          Welcome to Quran Says 🌿
-        </h1>
-      </div>
-    </>
+      <Hero />
+      <About />
+      <Courses />
+      <Testimonials />
+      <Footer />
+
+      {/* other sections */}
+    </div>
   );
 }
