@@ -60,8 +60,8 @@ export default function Footer() {
         <div>
           <h3 className="text-white font-semibold text-lg mb-4">Contact</h3>
           <p className="text-sm text-gray-400">Islamabad, Pakistan</p>
-          <p className="text-sm text-gray-400">Email: info@quransays.com</p>
-          <p className="text-sm text-gray-400">Phone: +92 300 1234567</p>
+          <p className="text-sm text-gray-400">Email: m.zakria5010@gmail.com</p>
+          <p className="text-sm text-gray-400">Phone: +92 348 2684808</p>
         </div>
 
         {/* Social Links */}
@@ -69,7 +69,7 @@ export default function Footer() {
           <h3 className="text-white font-semibold text-lg mb-4">Follow Us</h3>
           <div className="flex space-x-4">
             <a
-              href="#"
+              href="https://www.facebook.com/share/1ETLPEqAy8/"
               className="p-2 bg-gray-800 rounded-full hover:bg-green-600 transition"
             >
               <FaFacebookF size={16} />
