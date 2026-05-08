@@ -75,7 +75,7 @@ export default function Footer() {
               <FaFacebookF size={16} />
             </a>
             <a
-              href="https://wa.me/923255155122?text=Assalam o Alikum!%0AI Want Some Information About Quran Says"
+              href="https://wa.me/923482684808?text=Assalam o Alikum!%0AI Want Some Information About Quran Says"
               className="p-2 bg-gray-800 rounded-full hover:bg-green-600 transition"
             >
               <FaWhatsapp size={16} />

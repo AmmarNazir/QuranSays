@@ -82,7 +82,7 @@ export default function Courses() {
                 </div>
 
                 <a
-                  href={`https://wa.me/923255155122?text=Assalam o Alikum!%0AI want to enroll in ${encodeURIComponent(
+                  href={`https://wa.me/923482684808?text=Assalam o Alikum!%0AI want to enroll in ${encodeURIComponent(
                     course.title
                   )}`}
                   target="_blank"

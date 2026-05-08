@@ -19,13 +19,13 @@ export default function Hero() {
             </p>
             <div className="mt-8 flex space-x-4">
               <a
-                href="https://wa.me/923255155122?text=Assalam o Alikum!%0AI Want to Book a Free Trial"
+                href="https://wa.me/923482684808?text=Assalam o Alikum!%0AI Want to Book a Free Trial"
                 className="px-6 py-3 bg-green-600 text-white rounded-md text-lg font-semibold hover:bg-green-700 transition-colors duration-300"
               >
                 Book Free Trial
               </a>
               <a
-                href="https://wa.me/923255155122?text=Assalam o Alikum!%0AI Want Some Information About Quran Says"
+                href="https://wa.me/923482684808?text=Assalam o Alikum!%0AI Want Some Information About Quran Says"
                 className="px-6 py-3 border-2 border-green-600 text-green-600 rounded-md text-lg font-semibold hover:bg-green-600 hover:text-white transition-colors duration-300"
               >
                 Contact Us
